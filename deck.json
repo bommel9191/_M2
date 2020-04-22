@@ -55,7 +55,166 @@
     "extendNew": 10,
     "extendRev": 50,
     "media_files": [],
+    "mid": "1504610225729",
     "name": "_M2",
-    "note_models": [],
-    "notes": []
+    "note_models": [
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "95cd9962-84a7-11ea-b178-34f39a22fde8",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n\n.cloze {\n font-weight: bold;\n color: blue;\n}",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Text",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 14,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Extra",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 18,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Lückentext",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{cloze:Text}}<br>\n{{Extra}}",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "Lückentext",
+                    "ord": 0,
+                    "qfmt": "{{cloze:Text}}"
+                }
+            ],
+            "type": 1,
+            "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "0d0602a8-824c-11ea-ab6e-34f39a22fde8",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Vorderseite",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 14,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Rückseite",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Einfach",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Rückseite}}",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "Karte 1",
+                    "ord": 0,
+                    "qfmt": "{{Vorderseite}}"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        }
+    ],
+    "notes": [
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Um eine CLL&nbsp;{{c1::zu diagnostizieren}}&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "I+m0PONVww",
+            "newlyAdded": false,
+            "note_model_uuid": "95cd9962-84a7-11ea-b178-34f39a22fde8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "hbih",
+                "ljwnfowjn"
+            ],
+            "flags": 0,
+            "guid": "JRh^/d,H.8",
+            "newlyAdded": false,
+            "note_model_uuid": "0d0602a8-824c-11ea-ab6e-34f39a22fde8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "fwewdedewdd",
+                "cwecwefcfwe"
+            ],
+            "flags": 0,
+            "guid": "j361glHrl:",
+            "newlyAdded": false,
+            "note_model_uuid": "0d0602a8-824c-11ea-ab6e-34f39a22fde8",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "ewdewcxwecw",
+                "wfwefwcwwe"
+            ],
+            "flags": 0,
+            "guid": "r7D)UXIezq",
+            "newlyAdded": false,
+            "note_model_uuid": "0d0602a8-824c-11ea-ab6e-34f39a22fde8",
+            "tags": []
+        }
+    ]
 }
