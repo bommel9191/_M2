@@ -150,6 +150,19 @@
             "newlyAdded": false,
             "note_model_uuid": "a82fbcaf-839c-11ea-8393-5076afdc76ce",
             "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "abc",
+                "def"
+            ],
+            "flags": 0,
+            "guid": "re@,D&e{0P",
+            "newlyAdded": false,
+            "note_model_uuid": "a82fbcaf-839c-11ea-8393-5076afdc76ce",
+            "tags": []
         }
     ]
 }
