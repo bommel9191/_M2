@@ -60,59 +60,7 @@
     "note_models": [
         {
             "__type__": "NoteModel",
-            "crowdanki_uuid": "95cd9962-84a7-11ea-b178-34f39a22fde8",
-            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n\n.cloze {\n font-weight: bold;\n color: blue;\n}",
-            "flds": [
-                {
-                    "font": "Arial",
-                    "media": [],
-                    "name": "Text",
-                    "ord": 0,
-                    "rtl": false,
-                    "size": 14,
-                    "sticky": false
-                },
-                {
-                    "font": "Arial",
-                    "media": [],
-                    "name": "Extra",
-                    "ord": 1,
-                    "rtl": false,
-                    "size": 18,
-                    "sticky": false
-                }
-            ],
-            "latexPost": "\\end{document}",
-            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
-            "name": "Lückentext",
-            "req": [
-                [
-                    0,
-                    "any",
-                    [
-                        0
-                    ]
-                ]
-            ],
-            "sortf": 0,
-            "tags": [],
-            "tmpls": [
-                {
-                    "afmt": "{{cloze:Text}}<br>\n{{Extra}}",
-                    "bafmt": "",
-                    "bqfmt": "",
-                    "did": null,
-                    "name": "Lückentext",
-                    "ord": 0,
-                    "qfmt": "{{cloze:Text}}"
-                }
-            ],
-            "type": 1,
-            "vers": []
-        },
-        {
-            "__type__": "NoteModel",
-            "crowdanki_uuid": "0d0602a8-824c-11ea-ab6e-34f39a22fde8",
+            "crowdanki_uuid": "a82fbcaf-839c-11ea-8393-5076afdc76ce",
             "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n",
             "flds": [
                 {
@@ -140,7 +88,7 @@
             "req": [
                 [
                     0,
-                    "any",
+                    "all",
                     [
                         0
                     ]
@@ -168,52 +116,52 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Um eine CLL&nbsp;{{c1::zu diagnostizieren}}&nbsp;",
-                ""
+                "Alex PEnisgröße",
+                "Unendlich"
             ],
             "flags": 0,
-            "guid": "I+m0PONVww",
+            "guid": "x2*`BCusay",
             "newlyAdded": false,
-            "note_model_uuid": "95cd9962-84a7-11ea-b178-34f39a22fde8",
+            "note_model_uuid": "a82fbcaf-839c-11ea-8393-5076afdc76ce",
             "tags": []
         },
         {
             "__type__": "Note",
             "data": "",
             "fields": [
-                "hbih",
-                "ljwnfowjn"
+                "Nataschas Brain ist-",
+                "das genialste der Welt"
             ],
             "flags": 0,
-            "guid": "JRh^/d,H.8",
+            "guid": "uNL2)pOAld",
             "newlyAdded": false,
-            "note_model_uuid": "0d0602a8-824c-11ea-ab6e-34f39a22fde8",
+            "note_model_uuid": "a82fbcaf-839c-11ea-8393-5076afdc76ce",
             "tags": []
         },
         {
             "__type__": "Note",
             "data": "",
             "fields": [
-                "fwewdedewdd",
-                "cwecwefcfwe"
+                "BFLT steht für",
+                "bömmelixx und fläsh learn tours biaatch"
             ],
             "flags": 0,
-            "guid": "j361glHrl:",
+            "guid": "nK]M/{tb&(",
             "newlyAdded": false,
-            "note_model_uuid": "0d0602a8-824c-11ea-ab6e-34f39a22fde8",
+            "note_model_uuid": "a82fbcaf-839c-11ea-8393-5076afdc76ce",
             "tags": []
         },
         {
             "__type__": "Note",
             "data": "",
             "fields": [
-                "ewdewcxwecw",
-                "wfwefwcwwe"
+                "abc",
+                "def"
             ],
             "flags": 0,
-            "guid": "r7D)UXIezq",
+            "guid": "re@,D&e{0P",
             "newlyAdded": false,
-            "note_model_uuid": "0d0602a8-824c-11ea-ab6e-34f39a22fde8",
+            "note_model_uuid": "a82fbcaf-839c-11ea-8393-5076afdc76ce",
             "tags": []
         }
     ]
